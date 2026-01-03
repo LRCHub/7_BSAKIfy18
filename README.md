@@ -1,0 +1,32 @@
+# Sarah Brightman – エニィタイム・エニィウェア
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Strade son' cambiate
+Faccie son' diverse
+Era la mia citta
+Non la conosco piu
+La ora io sono solo
+Un' estranea senza patria
+I remember you were there
+Any one emotion
+Any true devotion
+Anytime, Anywhere
+Strade son' cambiate
+Faccie son' diverse
+Era la mia citta
+Non la conosco piu
+La ora io sono solo
+Un' estranea senza patria
+I remember you were there
+Any one emotion
+Any true devotion
+Anytime, Anywhere
+Case son' cambiate
+Voci son' diverse
+Era la mia citta
+Non la conosco piu
+La ora io sono solo
+Un' estranea senza patria
+```
