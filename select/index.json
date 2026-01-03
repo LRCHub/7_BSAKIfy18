@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エニィタイム・エニィウェア",
+  "base_artist": "Sarah Brightman",
+  "createdAt": "2026-01-03T10:51:08.966931Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anytime, Anywhere (Live Version)",
+      "artist": "Sarah Brightman",
+      "has_synced": false,
+      "path": "select/pl_01_Anytime,_Anywhere_(Live_Version)_Sarah_Brightman.txt"
+    }
+  ]
+}
